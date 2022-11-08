@@ -17,6 +17,7 @@ Image Rat Support android 12
 - Delete any File or Folder From Internal Storage
 - Download SMS
 - Download Contacts
+- Read Whatsapp message
 - Send SMS
 - Show SMS
 - Record Call
